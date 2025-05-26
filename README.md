@@ -88,7 +88,7 @@ Hello! I'm a passionate 4th year B.Tech student with a deep love for technology 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/surekha-pamulapati-26b932290)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surekha-pamulapati-26b932290)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surekhapamulapati@gmail.com)
 </div>
 
