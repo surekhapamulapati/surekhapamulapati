@@ -1,102 +1,82 @@
 # ✨ Hey there! I'm Surekha Pamulapati
 
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=4th+Year+B.Tech+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Tech+Innovator+%F0%9F%9A%80)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Full+Stack+Web+%2B+Mobile+Developer;Creative+Thinker+%F0%9F%A7%A9;Always+Exploring+What%E2%80%99s+Next+%F0%9F%9A%80;Let%E2%80%99s+Build+Cool+Stuff+Together!+%F0%9F%92%BB)
 
 </div>
 
 ---
 
-## 🌟 About Me
+## 💫 Who Am I?
 
-Hello! I'm a passionate 4th year B.Tech student with a deep love for technology and innovation. My journey in the world of programming has been incredibly exciting, and I'm always eager to learn new technologies and solve challenging problems. I specialize in full stack development and enjoy creating solutions that make a real difference. When I'm not coding, you'll find me exploring new tech trends, working on personal projects, or enjoying a good cup of coffee while brainstorming my next big idea. My goal is to build tomorrow's solutions today and contribute meaningfully to the tech community!
+I'm **Surekha**, a 4th year B.Tech Computer Science student and a developer who loves blending creativity with technology. My mission? To **build things that matter** – whether it’s a tiny personal project or a full-stack app that solves real problems.
 
----
+💡 I enjoy experimenting with new tech, designing clean user experiences, and crafting full-stack apps from the ground up.
 
-## 🔥 What I'm Building
-
-<details>
-<summary>🎯 <strong>Employee Attendance Using QR Code</strong></summary>
-<br>
-🔹 Smart attendance management system<br>
-🔹 QR code technology integration<br>
-🔹 Real-time tracking and analytics<br>
-🔹 User-friendly dashboard interface<br>
-</details>
-
-<details>
-<summary>🏥 <strong>MedVice - Medical Advisory Platform</strong></summary>
-<br>
-🔹 Comprehensive healthcare solution<br>
-🔹 Medical guidance and consultation<br>
-🔹 Patient management system<br>
-🔹 Emergency assistance features<br>
-</details>
+I'm currently diving deeper into:
+- **Modern Frontend** with React, Angular, Tailwind CSS
+- **Mobile App Development** using Android Studio + Firebase
+- **UI/UX Prototyping** using Figma
 
 ---
 
-## 🎯 Currently Exploring
-
-<table>
-<tr>
-<td width="50%">
-
-**🌐 Web Technologies**
-- Advanced React patterns
-- Node.js microservices
-- GraphQL APIs
-- Progressive Web Apps
-
-</td>
-<td width="50%">
-
-**🤖 Emerging Tech**
-- Machine Learning integration
-- Cloud computing (AWS/Azure)
-- DevOps practices
-- Mobile-first development
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ My Toolkit
+## ⚡ Tech Stack at a Glance
 
 <div align="center">
 
-### Languages & Frameworks
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🌐 Languages & Frameworks
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-### Databases & Tools
+### 💾 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+### 🛠️ Tools I Use
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
 </div>
 
 ---
 
-## 🌈 Let's Connect!
+## 🎨 My Learning Palette
+
+I believe in **learning by building**. Here's what I’m sharpening right now:
+
+- 📱 Mobile-first UI Design
+- 🔁 Full-Stack Architecture (Frontend + Backend)
+- 🎨 UX that actually *feels* good
+- 🤝 Team collaboration & clean code practices
+
+---
+
+## 📬 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surekha-pamulapati-26b932290)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surekha-pamulapati-26b932290)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surekhapamulapati@gmail.com)
+
 </div>
 
 ---
 
 <div align="center">
 
-
-**⭐ If you find my work interesting, don't forget to star my repositories! ⭐**
+✨ _Thanks for stopping by! Let’s build something amazing._  
+🌟 _If you like what I do, star ⭐ a repo, fork 🍴 a project, or just say hi 👋_
 
 </div>
+
